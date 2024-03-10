@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vincent Cordova
-- 👀 I’m interested in Deep Learning
+- 👀 I’m interested in Deep Learning, Visual Programming, Game Development, and more!
 - 🌱 I’m currently learning all things Computer Science
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 💞️ I’m looking to collaborate on Machine Learning research projects
 - 📫 How to reach me: linkedin.com/in/vlvcdev : vlvc.dev@gmail.com
 - ⚡ Fun fact: Rats don't know how to type (untested theory)
 
