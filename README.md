@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vincent Cordova
-- 👀 I’m interested in Deep Learning, Visual Programming, Game Development, and more!
+- 👀 I’m interested in Machine Learning, Biomimetic Algorithms, Game Development, and more!
 - 🌱 I’m currently learning all things Computer Science
 - 💞️ I’m looking to collaborate on Machine Learning research projects
 - 📫 How to reach me: linkedin.com/in/vlvcdev : vlvc.dev@gmail.com
