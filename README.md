@@ -12,14 +12,14 @@
 
 <div align="center">
         <img alt="Viewers" 
-            src="https://widgetbite.com/stats/CeceHoush"/>  
+            src="https://widgetbite.com/stats/vlvcDev"/>  
 </div>
     
 <h2> Github Stats </h2> 
-<a href="https://github.com/vlvcDev/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeceHoush&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=CeceHoush&theme=tokyonight" alt="vlvcDev" />
+<a href="https://github.com/vlvcDev/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlvcDev&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=vlvcDev&theme=tokyonight" alt="vlvcDev" />
 
-[![CeceHoush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CeceHoush&bg_color=212121&line=48BEFF&title_color=136F63&color=136F63)](https://github.com/CeceHoush)
+[![vlvcDev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vlvcDev&bg_color=212121&line=48BEFF&title_color=136F63&color=136F63)](https://github.com/vlvcDev)
 
 - 👋 Hi, I’m Vincent Cordova
 - 👀 I’m interested in Machine Learning, Biomimetic Algorithms, Game Development, and more!
