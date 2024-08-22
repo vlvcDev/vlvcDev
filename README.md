@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I'm a passionate developer with a focus on machine learning, biomimetic algorithms, and parallel computing, and more! My goal is to push the boundaries of what's possible with code.
+  I'm a developer with a focus on machine learning, biomimetic algorithms, distributed computing, and more! My goal is to do research in the Computer Science industry, especially related to AI.
 </p>
 
 <p align="center">
