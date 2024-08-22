@@ -19,6 +19,8 @@
 - **Flutter**: Cross-platform mobile development.
 - **React**: Frontend web development.
 - **Flask**: Python-based web framework.
+- **Tensorflow**: AI model training
+- **PyTorch**: AI model training
 
 ### 💻 Proficient Languages
 - **Dart**: Primary language for Flutter.
