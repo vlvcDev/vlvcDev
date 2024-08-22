@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Vincent 👋</h1>
 
 <p align="center">
-  I'm a developer with a focus on machine learning, biomimetic algorithms, distributed computing, and more! My goal is to do research in the Computer Science industry, especially related to AI.
+  I'm a developer with a focus on machine learning, and an interest in biomimetic algorithms, distributed computing, and more! My goal is to do research in the Computer Science industry, especially related to AI.
 </p>
 
 <p align="center">
