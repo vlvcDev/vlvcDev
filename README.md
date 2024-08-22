@@ -1,8 +1,5 @@
+<img src="https://github.com/user-attachments/assets/e1f2a1ba-886d-4964-944e-cacd82bbd3d3">
 <h1 align="center">Hi, I'm Vincent 👋</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="waving hand" width="150"/>
-</p>
 
 <p align="center">
   I'm a developer with a focus on machine learning, biomimetic algorithms, distributed computing, and more! My goal is to do research in the Computer Science industry, especially related to AI.
