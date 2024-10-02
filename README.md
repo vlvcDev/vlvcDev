@@ -24,10 +24,10 @@
 - **Python**: Versatile scripting and data science.
 - **Java**: Object-oriented programming.
 - **ARM Assembly**: Low-level programming for embedded systems.
+- **C++**
 
 ### 🌐 Other Languages Used
 - **JavaScript**
-- **C++**
 - **C**
 - **Go**
 
