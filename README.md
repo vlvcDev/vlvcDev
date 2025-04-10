@@ -10,51 +10,6 @@
   <a href="mailto:vlvcDev@gmail.com">Email</a>
 </p>
 
-## 🛠 Technologies & Tools
-
-### 🧰 Frameworks
-- **Flutter**: Cross-platform mobile development.
-- **React**: Frontend web development.
-- **Flask**: Python-based web framework.
-- **Tensorflow**: AI model training
-- **PyTorch**: AI model training
-
-### 💻 Proficient Languages
-- **Dart**: Primary language for Flutter.
-- **Python**: Versatile scripting and data science.
-- **Java**: Object-oriented programming.
-- **ARM Assembly**: Low-level programming for embedded systems.
-- **C++**
-
-### 🌐 Other Languages Used
-- **JavaScript**
-- **C**
-- **Go**
-
-### 📡 APIs
-- **Google Maps**: Geolocation and mapping.
-- **Square**: User account and product listing.
-- **OpenAI**: Artificial Intelligence.
-- **Gemini**: Artificial Intelligence but free.
-
-### 🧠 Confident Concepts
-- **Deep Learning**
-- **Computer Vision**
-- **Text Completion**
-- **Web Scraping**
-- **Geolocation**
-- **Raytracing**
-- **Biomimetic Algorithms**
-- **Parallel Programming**
-- **Multithreading**
-- **Encryption**
-- **Physics Simulation**
-
-### 🛠 Non-Coding Devtools
-- **Docker**: Containerization.
-- **Postman**: API testing.
-- **Blender**: 3D modeling and animation.
-
 ### Favorite Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlvcDev&repo=Physarum-glsl&theme=dark)](https://github.com/vlvcDev/Physarum-glsl)
 <!--![longslime](https://github.com/vlvcDev/vlvcDev/assets/144645040/947470c3-d8ce-4daf-a0d5-8f3ff43ec63a)-->
